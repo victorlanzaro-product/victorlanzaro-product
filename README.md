@@ -7,8 +7,11 @@
 [![AI Operations](https://img.shields.io/badge/AI%20Operations-6D28D9?style=for-the-badge)](#ai-operations-em-prática)
 [![Applied AI](https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge)](#projetos-selecionados)
 [![Automation](https://img.shields.io/badge/Automation-4338CA?style=for-the-badge)](#como-eu-trabalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Lanzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugolanzaro/)
 
 <sub>Diagnóstico operacional · Automação · Sistemas de apoio à decisão · Processos verificáveis</sub>
+
+![Assinatura visual de AI Operations](assets/ai-operations-signature.png)
 
 </div>
 

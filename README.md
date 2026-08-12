@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:2563EB&height=190&section=header&text=Victor%20Lanzaro&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Product%20Operations%20%7C%20Applied%20AI%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:2563EB&height=190&section=header&text=Victor%20Lanzaro&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Operations%20%7C%20Applied%20AI%20%7C%20Automation&descAlignY=58&descSize=17&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Transformando+problemas+operacionais+em+sistemas+claros.;IA+aplicada%2C+automacao+e+produtos+com+criterio.)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Construo ferramentas e fluxos que tornam o trabalho operacional mais visível, confiável e escalável. Meu interesse está na interseção entre **Product Operations**, **IA aplicada**, automação e engenharia de software - especialmente quando tecnologia precisa resolver um problema concreto, com critérios claros e resultados verificáveis.
+Construo ferramentas e fluxos que tornam o trabalho operacional mais visível, confiável e escalável. Meu interesse está na interseção entre **AI Operations**, **IA aplicada**, automação e engenharia de software - especialmente quando tecnologia precisa resolver um problema concreto, com critérios claros e resultados verificáveis.
 
 Hoje exploro desde diagnóstico operacional apoiado por IA até visão computacional local, classificação de risco de decisão e automação de processos em BPMN.
 
@@ -61,7 +61,7 @@ Skill que transforma entrevistas e reuniões em um diagnóstico operacional estr
 
 | Aplicação | Destaque |
 | --- | --- |
-| Product Ops, IA aplicada, análise de capacidade | Recomendações vêm acompanhadas de viabilidade, riscos e pré-requisitos de governança. |
+| AI Operations, IA aplicada, análise de capacidade | Recomendações vêm acompanhadas de viabilidade, riscos e pré-requisitos de governança. |
 
 [Ver repositório →](https://github.com/victorlanzaro-product/operational-ai-diagnostic)
 </details>

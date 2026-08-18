@@ -11,8 +11,6 @@
 
 <sub>Diagnóstico operacional · Automação · Sistemas de apoio à decisão · Processos verificáveis</sub>
 
-![Assinatura visual de AI Operations](assets/ai-operations-signature.png)
-
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
 
-![Victor Lanzaro, Product Manager](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Manager%20%7C%20AI%20Operations%20%26%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn)
+![Victor Lanzaro, Product Manager](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Manager%20%E2%80%A2%20AI%20Operations%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Transformando+problemas+complexos+em+produtos+claros+e+inteligentes.;Produto%2C+processos+e+IA+com+crit%C3%A9rio%2C+evid%C3%AAncia+e+governan%C3%A7a.)](https://git.io/typing-svg)
 

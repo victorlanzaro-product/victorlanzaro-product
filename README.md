@@ -1,87 +1,90 @@
 <div align="center">
 
-![Victor Lanzaro - AI Operations](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Operations%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Automation&descAlignY=57&descSize=18&animation=fadeIn)
+![Victor Lanzaro, Product Manager](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Manager%20%7C%20AI%20Operations%20%26%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=680&lines=Transformando+opera%C3%A7%C3%B5es+em+sistemas+mais+claros+e+inteligentes.;Da+evid%C3%AAncia+%C3%A0+autom%C3%A7%C3%A3o%3A+IA+com+crit%C3%A9rio+e+governan%C3%A7a.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Transformando+problemas+complexos+em+produtos+claros+e+inteligentes.;Produto%2C+processos+e+IA+com+crit%C3%A9rio%2C+evid%C3%AAncia+e+governan%C3%A7a.)](https://git.io/typing-svg)
 
-[![AI Operations](https://img.shields.io/badge/AI%20Operations-6D28D9?style=for-the-badge)](#ai-operations-em-prática)
-[![Applied AI](https://img.shields.io/badge/Applied%20AI-2563EB?style=for-the-badge)](#projetos-selecionados)
-[![Automation](https://img.shields.io/badge/Automation-4338CA?style=for-the-badge)](#como-eu-trabalho)
+[![Product Management](https://img.shields.io/badge/Product%20Management-6D28D9?style=for-the-badge)](#como-gero-valor)
+[![AI Operations](https://img.shields.io/badge/AI%20Operations-2563EB?style=for-the-badge)](#projetos-selecionados)
+[![Applied AI](https://img.shields.io/badge/Applied%20AI-4338CA?style=for-the-badge)](#competências-e-ferramentas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Lanzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugolanzaro/)
 
-<sub>Diagnóstico operacional · Automação · Sistemas de apoio à decisão · Processos verificáveis</sub>
+<sub>Product Manager | AI Operations & Applied AI</sub>
 
 </div>
-
----
 
 ## Sobre
 
-Trabalho em **AI Operations**: uso IA, automação e engenharia para transformar operações confusas em sistemas que podem ser entendidos, melhorados e escalados.
+Sou **Product Manager com foco em AI Operations e IA aplicada**.
 
-Meu foco não é inserir IA por inserir. É encontrar o problema certo, explicitar os limites, estruturar o fluxo de trabalho e construir soluções com evidência, governança e utilidade real.
+Trabalho na interseção entre produto, processos e engenharia para transformar problemas operacionais pouco estruturados em produtos e sistemas claros, mensuráveis e capazes de evoluir.
+
+Meu trabalho começa antes da tecnologia. Busco entender o contexto, identificar o problema certo, explicitar critérios de decisão e definir como o sucesso será medido. A partir disso, desenho e implemento soluções com evidência, governança e utilidade real.
 
 <div align="center">
 
-`Diagnosticar` &nbsp;→&nbsp; `Estruturar` &nbsp;→&nbsp; `Automatizar` &nbsp;→&nbsp; `Medir` &nbsp;→&nbsp; `Evoluir`
+`Descobrir` &nbsp;→&nbsp; `Priorizar` &nbsp;→&nbsp; `Construir` &nbsp;→&nbsp; `Medir` &nbsp;→&nbsp; `Evoluir`
 
 </div>
 
----
+## Como gero valor
 
-## AI Operations em prática
-
-| | Área | Como aplico |
-| :--: | --- | --- |
-| **01** | **Diagnóstico operacional** | Transformo entrevistas, reuniões e sinais dispersos em atividades, gargalos, capacidade e oportunidades priorizadas. |
-| **02** | **Automação responsável** | Desenho automações com pré-requisitos, riscos e pontos claros de validação humana. |
-| **03** | **Apoio à decisão** | Crio ferramentas que tornam critérios, rankings e recomendações explicáveis. |
-| **04** | **Processos e qualidade** | Estruturo fluxos que são válidos, testáveis e fáceis de evoluir - não apenas convincentes em uma demonstração. |
-
----
+| Área | Como atuo |
+| --- | --- |
+| **Product Discovery** | Transformo entrevistas, dados e sinais dispersos em problemas priorizados e oportunidades de produto. |
+| **Estratégia e decisão** | Estruturo critérios, trade-offs, métricas e recomendações explicáveis. |
+| **AI Operations** | Identifico onde IA e automação podem gerar valor real, considerando viabilidade, risco e governança. |
+| **Product Delivery** | Conecto produto e engenharia para transformar hipóteses em soluções testáveis e evolutivas. |
+| **Processos e qualidade** | Modelo fluxos claros, verificáveis e preparados para melhoria contínua. |
 
 ## Projetos selecionados
 
 ### [Operational AI Diagnostic](https://github.com/victorlanzaro-product/operational-ai-diagnostic)
 
-> De entrevistas e reuniões para um diagnóstico operacional estruturado.
+**Problema:** entrevistas e reuniões produzem conhecimento disperso, difícil de transformar em decisões.
 
-Mapeia atividades, capacidade, gargalos, riscos e oportunidades de IA/automação. Separa fatos, inferências e recomendações; cada sugestão vem com viabilidade, risco e pré-requisitos de governança.
+**Solução:** estrutura atividades, capacidade, gargalos, riscos e oportunidades de IA e automação. Separa fatos, inferências e recomendações, com critérios de viabilidade, risco e governança.
 
-`AI Operations` · `Product & Process Discovery` · `Automation Governance`
+**Foco:** descoberta de produto, diagnóstico operacional, priorização e governança de automação.
+
+`AI Operations` · `Product Discovery` · `Decision Systems`
 
 ### [GitHub Searcher Agent](https://github.com/victorlanzaro-product/github-searcher-agent)
 
-> Descoberta de repositórios com ranking explicável para AI Ops.
+**Problema:** encontrar repositórios relevantes exige pesquisa manual e critérios que normalmente ficam implícitos.
 
-Busca, filtra candidatos de baixo sinal e gera shortlists em Markdown ou JSON. O score torna visíveis os critérios de relevância, atividade, qualidade e aderência ao contexto.
+**Solução:** busca e filtra candidatos, reduz resultados de baixo sinal e gera listas priorizadas em Markdown ou JSON. O score torna visíveis os critérios de relevância, atividade, qualidade e aderência ao contexto.
+
+**Foco:** descoberta assistida, critérios de priorização e recomendações explicáveis.
 
 `Python` · `GitHub API` · `OpenAI Responses API` · `Claude API`
 
 ### [BPMN Camunda](https://github.com/victorlanzaro-product/bpmn-camunda)
 
-> Processos válidos, não apenas diagramas bonitos.
+**Problema:** diagramas de processo visualmente convincentes nem sempre são válidos ou reutilizáveis.
 
-Gera BPMN 2.0 a partir de texto ou imagem, com modelo intermediário, validação contra o schema da OMG e prévia em SVG antes da entrega.
+**Solução:** gera BPMN 2.0 a partir de texto ou imagem, usando um modelo intermediário, validação contra o schema da OMG e prévia em SVG antes da entrega.
+
+**Foco:** modelagem de processos, qualidade da entrega e validação técnica.
 
 `Python` · `BPMN 2.0` · `Camunda` · `Validação XSD`
 
 ### [Motion Lab](https://github.com/victorlanzaro-product/motion-lab)
 
-> Visão computacional local, privativa e explicável.
+**Problema:** aplicações de visão computacional podem comprometer privacidade e dificultar a explicação das decisões do modelo.
 
-Pipeline de webcam para pose, features, gestos e ML em tempo real. Trabalha com landmarks temporários - nunca armazena vídeo - e compara sinais de regras e modelo.
+**Solução:** pipeline local de webcam para pose, features, gestos e aprendizado de máquina em tempo real. Trabalha apenas com landmarks temporários, não armazena vídeo e compara sinais produzidos por regras e modelo.
+
+**Foco:** produto experimental, privacidade por design e IA explicável.
 
 `OpenCV` · `MediaPipe` · `FastAPI` · `WebSocket` · `scikit-learn`
 
 <details>
 <summary><b>Mais em construção</b></summary>
 
-**[Detector de Risco de Decisão](https://github.com/victorlanzaro-product/detector-risco-decisao)** é um projeto de aprendizado em ML para classificar riscos em textos curtos. A proposta prioriza desenvolvimento orientado por especificação, revisão independente, reprodutibilidade e limites documentados - sem tratar experimento didático como produto pronto.
+O **[Detector de Risco de Decisão](https://github.com/victorlanzaro-product/detector-risco-decisao)** é um projeto de aprendizado em ML para classificar riscos em textos curtos. A proposta prioriza desenvolvimento orientado por especificação, revisão independente, reprodutibilidade e limites documentados, sem tratar um experimento didático como produto pronto.
 
 </details>
-
----
 
 ## Como eu trabalho
 
@@ -93,29 +96,29 @@ princípios:
   decisões_rastreáveis: "documentar o que será difícil de reverter"
 ```
 
----
+## Competências e ferramentas
 
-## Ferramentas
+| Competência | Tecnologias e práticas |
+| --- | --- |
+| **Produto** | Discovery, priorização, métricas, critérios de aceite e documentação de decisões |
+| **IA aplicada** | OpenAI, Claude, scikit-learn, agentes e avaliação de resultados |
+| **Automação e engenharia** | Python, FastAPI, APIs, GitHub Actions e Docker |
+| **Visão computacional** | OpenCV, MediaPipe e processamento em tempo real |
+| **Processos** | BPMN 2.0, Camunda, validação XSD e modelagem operacional |
 
 <div align="center">
 
-![Tecnologias](https://skillicons.dev/icons?i=python,fastapi,js,html,css,git,github,docker,githubactions&theme=dark)
-
-<br />
-
-![IA e ML](https://img.shields.io/badge/IA%20%26%20ML-OpenAI%20%7C%20Claude%20%7C%20scikit--learn-6D28D9?style=flat-square)
-![Visão](https://img.shields.io/badge/Vision-OpenCV%20%7C%20MediaPipe-4338CA?style=flat-square)
-![Processos](https://img.shields.io/badge/Processos-BPMN%202.0%20%7C%20Camunda-7C3AED?style=flat-square)
-![Prática](https://img.shields.io/badge/Prática-Spec--driven%20development-1D4ED8?style=flat-square)
+![Tecnologias](https://skillicons.dev/icons?i=python,fastapi,git,github,docker,githubactions&theme=dark)
 
 </div>
 
----
+## Vamos conversar
+
+Tenho interesse em produtos que envolvam operações complexas, automação responsável e IA aplicada. Se você está trabalhando em um problema nessa interseção, será um prazer trocar ideias.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=victorlanzaro-product&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=8B5CF6" alt="Estatísticas do GitHub" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlanzaro-product&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9" alt="Linguagens mais usadas" />
+[![Conecte-se comigo no LinkedIn](https://img.shields.io/badge/Conecte--se%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugolanzaro/)
 
 <br /><br />
 

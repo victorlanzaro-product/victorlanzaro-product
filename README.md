@@ -1,12 +1,12 @@
 <div align="center">
 
-![Victor Lanzaro, Product Manager](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Product%20Manager%20%E2%80%A2%20AI%20Operations%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn)
+![Victor Lanzaro, Product Manager](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:C2410C,100:F59E0B&height=210&section=header&text=Victor%20Lanzaro&fontSize=48&fontColor=FFF7ED&fontAlignY=36&desc=Product%20Manager%20%E2%80%A2%20AI%20Operations%20%E2%80%A2%20Applied%20AI&descAlignY=57&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&lines=Transformando+problemas+complexos+em+produtos+claros+e+inteligentes.;Produto%2C+processos+e+IA+com+crit%C3%A9rio%2C+evid%C3%AAncia+e+governan%C3%A7a.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=FDBA74&center=true&vCenter=true&width=760&lines=Transformando+problemas+complexos+em+produtos+claros+e+inteligentes.;Produto%2C+processos+e+IA+com+crit%C3%A9rio%2C+evid%C3%AAncia+e+governan%C3%A7a.)](https://git.io/typing-svg)
 
-[![Product Management](https://img.shields.io/badge/Product%20Management-6D28D9?style=for-the-badge)](#como-gero-valor)
-[![AI Operations](https://img.shields.io/badge/AI%20Operations-2563EB?style=for-the-badge)](#projetos-selecionados)
-[![Applied AI](https://img.shields.io/badge/Applied%20AI-4338CA?style=for-the-badge)](#competências-e-ferramentas)
+[![Product Management](https://img.shields.io/badge/Product%20Management-C2410C?style=for-the-badge)](#como-gero-valor)
+[![AI Operations](https://img.shields.io/badge/AI%20Operations-EA580C?style=for-the-badge)](#projetos-selecionados)
+[![Applied AI](https://img.shields.io/badge/Applied%20AI-F59E0B?style=for-the-badge&logoColor=111827)](#competências-e-ferramentas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Lanzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugolanzaro/)
 
 <sub>Product Manager | AI Operations & Applied AI</sub>
@@ -124,6 +124,6 @@ Tenho interesse em produtos que envolvam operações complexas, automação resp
 
 <i>Clareza operacional é uma forma de respeitar quem usa, mantém e evolui o sistema.</i>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4C1D95,100:2563EB&height=110&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:C2410C,100:F59E0B&height=110&section=footer)
 
 </div>

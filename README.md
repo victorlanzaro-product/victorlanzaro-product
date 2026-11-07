@@ -9,7 +9,7 @@
 [![Applied AI](https://img.shields.io/badge/Applied%20AI-F59E0B?style=for-the-badge&logoColor=111827)](#competências-e-ferramentas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Lanzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugolanzaro/)
 
-<sub>Product Manager | AI Operations & Applied AI</sub>
+<sub>Product Operations | AI Operations & Applied AI</sub>
 
 </div>
 
